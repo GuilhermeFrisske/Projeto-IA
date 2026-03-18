@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat",
+  "description": "Uma IA simples e elegante que responde às suas perguntas usando o Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
